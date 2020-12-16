@@ -2,7 +2,7 @@
   "name": "template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jjongpang.github.io/dreamCoding-React/.",
+  "homepage": "https://jjongpang.github.io/react-habit-tracker/.",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.14.0",
     "@testing-library/jest-dom": "^4.2.4",
